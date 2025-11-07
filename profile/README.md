@@ -25,7 +25,7 @@ Hands-on Android and Flutter labs for students who learn by building. Every repo
 A Flutter 3 commerce showcase that combines Provider for state management, Supabase for auth/storage, dependency injection helpers, theming, and a multi-step checkout with VNPAY Edge Functions. It is ideal if you want to compare native Android patterns with a cross-platform stack.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Flutter-CellphoneZ">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Flutter-CellphoneZ&theme=tokyonight" alt="Flutter-CellphoneZ card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Flutter-CellphoneZ" alt="Flutter-CellphoneZ card"/>
   </a>
 </p>
 
@@ -33,7 +33,7 @@ A Flutter 3 commerce showcase that combines Provider for state management, Supab
 A playful horse-racing mini game. You experiment with a custom game loop driven by `SeekBar`s, persisted preferences (`UserPreferences`), and repository-style abstractions for race data. It is a fun way to connect UI events, background timers, and stateful screens.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Umamuse_Rep11">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Umamuse_Rep11&theme=tokyonight" alt="Umamuse_Rep11 card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Umamuse_Rep11" alt="Umamuse_Rep11 card"/>
   </a>
 </p>
 
@@ -45,7 +45,7 @@ A playful horse-racing mini game. You experiment with a custom game loop driven 
 A classic to-do list that walks through RecyclerView adapters, SQLite-style helpers, and lifecycle-aware UI updates. It is intentionally small, so you can focus on CRUD operations, custom adapters (`CongViecAdapter`), and persistence wiring without extra libraries.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-Task-List-App">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Task-List-App&theme=tokyonight" alt="Android-Task-List-App card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Task-List-App" alt="Android-Task-List-App card"/>
   </a>
 </p>
 
@@ -53,7 +53,7 @@ A classic to-do list that walks through RecyclerView adapters, SQLite-style help
 Shows how to talk to a backend using Retrofit. The `ApiService` interface demonstrates posting JSON login credentials, while the surrounding activities cover request/response DTOs, field validation, and handling asynchronous network callbacks in a Kotlin-DSL Gradle setup.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-Database">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Database&theme=tokyonight" alt="Android-Database card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Database" alt="Android-Database card"/>
   </a>
 </p>
 
@@ -61,7 +61,7 @@ Shows how to talk to a backend using Retrofit. The `ApiService` interface demons
 Email/password authentication powered by FirebaseAuth. You practice sign-up, sign-in, sign-out, verification flows, success animations, and error handling with `Task<AuthResult>` listeners. The UI layer includes entrance animations (`card_enter`) and vector drawables for feedback.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-Firebase-Auth">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Firebase-Auth&theme=tokyonight" alt="Android-Firebase-Auth card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Firebase-Auth" alt="Android-Firebase-Auth card"/>
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Email/password authentication powered by FirebaseAuth. You practice sign-up, sig
 Demonstrates Jetpack Navigation, ViewBinding, and shared `ViewModel`s inside a bottom navigation shell. It wires fragments to toolbar actions, keeps the back stack predictable, and illustrates how to integrate `AppBarConfiguration` plus `NavigationUI` helpers.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-Fragment_Bottom_Navigation">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Fragment_Bottom_Navigation&theme=tokyonight" alt="Android-Fragment_Bottom_Navigation card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Fragment_Bottom_Navigation" alt="Android-Fragment_Bottom_Navigation card"/>
   </a>
 </p>
 
@@ -77,7 +77,7 @@ Demonstrates Jetpack Navigation, ViewBinding, and shared `ViewModel`s inside a b
 An osmdroid-based mapping lab that also taps into Google Play Services for location. You learn how to request runtime permissions, initialize tile sources, switch map styles, drop markers programmatically, and tie UI buttons to `FusedLocationProviderClient` updates.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-Google-Map">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Google-Map&theme=tokyonight" alt="Android-Google-Map card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Google-Map" alt="Android-Google-Map card"/>
   </a>
 </p>
 
@@ -85,7 +85,7 @@ An osmdroid-based mapping lab that also taps into Google Play Services for locat
 Focuses on the UX around dangerous permissions—in this case, the camera. It shows how to check `ContextCompat` status, request with `ActivityCompat`, surface rationale messages, and deep-link the user into system settings when authorization is permanently denied.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-Permission-Dialog">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Permission-Dialog&theme=tokyonight" alt="Android-Permission-Dialog card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Permission-Dialog" alt="Android-Permission-Dialog card"/>
   </a>
 </p>
 
@@ -93,7 +93,7 @@ Focuses on the UX around dangerous permissions—in this case, the camera. It sh
 A trio of menu-centric exercises. Each activity explores a different menu primitive (options menu, context menu, action mode) and how to respond to selection events. It is perfect for practicing XML menu inflation, dynamic state toggles, and theming menu items.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-Option-Menu">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Option-Menu&theme=tokyonight" alt="Android-Option-Menu card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Option-Menu" alt="Android-Option-Menu card"/>
   </a>
 </p>
 
@@ -101,7 +101,7 @@ A trio of menu-centric exercises. Each activity explores a different menu primit
 A merchant-style checkout sandbox that integrates the ZaloPay SDK. It includes helper classes for HMAC signing (`Helper/HMacUtil`), request constants (`AppInfo`), and callback handling so you can walk through an end-to-end payment attempt using sandbox credentials.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-ZaloPay-Payment-Gateway">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-ZaloPay-Payment-Gateway&theme=tokyonight" alt="Android-ZaloPay-Payment-Gateway card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-ZaloPay-Payment-Gateway" alt="Android-ZaloPay-Payment-Gateway card"/>
   </a>
 </p>
 
@@ -109,7 +109,7 @@ A merchant-style checkout sandbox that integrates the ZaloPay SDK. It includes h
 Modern notification practices for API 33+: create channels, request the `POST_NOTIFICATIONS` permission via `ActivityResultLauncher`, and send richly styled notifications with large icons, inline actions, and pending intents to reopen the app.
 <p>
   <a href="https://github.com/FirstAndroidJourney/Android-Notification">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Notification&theme=tokyonight" alt="Android-Notification card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Notification" alt="Android-Notification card"/>
   </a>
 </p>
 
