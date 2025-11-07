@@ -19,22 +19,21 @@ Hands-on Android and Flutter labs for students who learn by building. Every repo
 
 ---
 
-## 🌟 Featured builds
-<p align="center">
+## ✨ Spotlight Projects
+
+### 🛍️ Flutter-CellphoneZ
+A Flutter 3 commerce showcase that combines Provider for state management, Supabase for auth/storage, dependency injection helpers, theming, and a multi-step checkout with VNPAY Edge Functions. It is ideal if you want to compare native Android patterns with a cross-platform stack.
+<p>
   <a href="https://github.com/FirstAndroidJourney/Flutter-CellphoneZ">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Flutter-CellphoneZ&theme=tokyonight" alt="Flutter-CellphoneZ card"/>
-  </a>
-  <a href="https://github.com/FirstAndroidJourney/Android-Google-Map">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Google-Map&theme=tokyonight" alt="Android-Google-Map card"/>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Flutter-CellphoneZ&theme=tokyonight" alt="Flutter-CellphoneZ card"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/FirstAndroidJourney/Android-Firebase-Auth">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-Firebase-Auth&theme=tokyonight" alt="Android-Firebase-Auth card"/>
-  </a>
-  <a href="https://github.com/FirstAndroidJourney/Android-ZaloPay-Payment-Gateway">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Android-ZaloPay-Payment-Gateway&theme=tokyonight" alt="Android-ZaloPay-Payment-Gateway card"/>
+### 🐎 Umamuse_Rep11
+A playful horse-racing mini game. You experiment with a custom game loop driven by `SeekBar`s, persisted preferences (`UserPreferences`), and repository-style abstractions for race data. It is a fun way to connect UI events, background timers, and stateful screens.
+<p>
+  <a href="https://github.com/FirstAndroidJourney/Umamuse_Rep11">
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Umamuse_Rep11&theme=tokyonight" alt="Umamuse_Rep11 card"/>
   </a>
 </p>
 
@@ -114,23 +113,6 @@ Modern notification practices for API 33+: create channels, request the `POST_NO
   </a>
 </p>
 
-### 🛍️ Flutter-CellphoneZ
-A Flutter 3 commerce showcase that combines Provider for state management, Supabase for auth/storage, dependency injection helpers, theming, and a multi-step checkout with VNPAY Edge Functions. It is ideal if you want to compare native Android patterns with a cross-platform stack.
-<p>
-  <a href="https://github.com/FirstAndroidJourney/Flutter-CellphoneZ">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Flutter-CellphoneZ&theme=tokyonight" alt="Flutter-CellphoneZ card"/>
-  </a>
-</p>
-
-### 🐎 Umamuse_Rep11
-A playful horse-racing mini game. You experiment with a custom game loop driven by `SeekBar`s, persisted preferences (`UserPreferences`), and repository-style abstractions for race data. It is a fun way to connect UI events, background timers, and stateful screens.
-<p>
-  <a href="https://github.com/FirstAndroidJourney/Umamuse_Rep11">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=FirstAndroidJourney&repo=Umamuse_Rep11&theme=tokyonight" alt="Umamuse_Rep11 card"/>
-  </a>
-</p>
-
----
 
 ## 🚀 Getting started
 1. Clone the umbrella repo: `git clone https://github.com/FirstAndroidJourney/FirstAndroidJourney.git`
