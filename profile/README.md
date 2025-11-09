@@ -20,7 +20,7 @@ Hands-on Android and Flutter labs for students who learn by building. Every repo
 ---
 
 ## ✨ Spotlight Projects
-
+![CellphoneZ](CellphoneZ.png)
 ### 🛍️ Flutter-CellphoneZ
 <table>
   <tr>
